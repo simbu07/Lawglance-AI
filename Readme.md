@@ -8,7 +8,6 @@
 
 > 🛡️ **Mission:** “Justice should be accessible to everyone. LawGlance ensures that no one is left behind when it comes to legal knowledge.”
 
-This project is developed with support from mentors and experts at [Data Science Academy](https://datascience.one/) and [Curvelogics](https://www.curvelogics.com/). 💼
 
 ---
 
@@ -33,7 +32,7 @@ Originally launched as [Niyam SahaAI](https://github.com/niyam-sahaai/niyam-saha
 
 Curious how **LawGlance** works? Watch this detailed tutorial!
 
-[![Niyam SahaAI Tutorial](https://img.youtube.com/vi/sWpLEApQtvE/0.jpg)](https://www.youtube.com/watch?v=sWpLEApQtvE "Niyam SahaAI Tutorial")
+[![Lawglance AI Tutorial](https://img.youtube.com/vi/sWpLEApQtvE/0.jpg)](https://www.youtube.com/watch?v=sWpLEApQtvE "Niyam SahaAI Tutorial")
 
 <div>
     <a href="https://www.loom.com/share/576b26dcd5fb4d74a3a9e1f8187851bc">
